@@ -1,0 +1,24 @@
+# Visual Studio
+.vs/
+/x64/
+/Debug/
+/Release/
+*.suo
+*.user
+*.vcxproj.filters
+*.vcxproj.user
+
+# Build results
+[Bb]in/
+[Oo]bj/
+[Rr]elease/
+[Dd]ebug/
+[Ll]og/
+
+# Other
+*.tlog
+*.ilk
+*.pdb
+*.exe
+*.dll
+car.wav
