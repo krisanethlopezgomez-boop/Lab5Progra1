@@ -21,4 +21,6 @@
 *.pdb
 *.exe
 *.dll
-car.wav
+
+# vcpkg
+vcpkg_installed/
