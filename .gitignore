@@ -21,3 +21,6 @@
 *.pdb
 *.exe
 *.dll
+
+# vcpkg
+vcpkg_installed/
